@@ -1,7 +1,7 @@
 #include  <stdio.h>
 /* A program to find area of a circle. */
 
-void main()
+int main()
   
 {
   float  r,area;
